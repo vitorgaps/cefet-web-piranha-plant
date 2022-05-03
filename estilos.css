@@ -1,0 +1,59 @@
+h1,h2 {
+    color: limegreen;
+    font-family: 'Times New Roman', serif;
+}
+
+body{
+    margin: 5% 10%;
+}
+
+h1{
+    font-size: 28px;
+}
+
+h2{
+    font-size: 22px;
+}
+
+p{
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    text-align: justify;
+}
+
+.termos-lingua-estrangeira{
+    font-style: italic;
+}
+
+.curiosidade{
+    border: 3px solid limegreen;
+    padding: 10px;
+    background-image: url("./imagens/fundo.png");
+}
+
+.imagem-ilustracao{
+    width: 300px;
+    border: 8px solid limegreen;
+    margin: 0 auto;
+    display: block;
+}
+
+.lojinha{
+    background-image: url("./imagens/desenho-loucao.jpg");
+    background-size: 100% 100vh;
+}
+
+table{
+    width: 600px;
+    text-align: center;
+    margin: 10% auto;
+}
+
+th{
+    background-color: rgba(0, 14, 0, 0.658);
+    color: aliceblue;    
+}
+
+td{
+    border: 1px solid rgba(0, 14, 0, 0.658);
+}
