@@ -1,6 +1,6 @@
 # Plantas Carnívoras 🦖
 
-Um site informativo sobre plantas carnívoras.
+Um site informativo sobre as plantas carnívoras.
 
 ## Atividade
 
